@@ -1,1 +1,1 @@
-This is the original line from the main branch.
+This is the line modified by Feature A.
